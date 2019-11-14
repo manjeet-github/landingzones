@@ -1,3 +1,5 @@
+https://www.arnaudlheureux.io/2019/09/18/azure-landing-zones-using-terraform-getting-started/
+
 # Introduction 
 Welcome to Azure Terraform landing zones samples.
 Using this series of landing zones and blueprints based on Terraform, you will be able to deploy easily a complex environment based on a virtual datacenter and following the cloud adoption framework concepts https://aka.ms/caf.
